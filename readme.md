@@ -2,4 +2,4 @@
 
 ## Contents Outline
 
-[Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
+[Session 1:Blockchain Basics](https://solidity-by-example.org/hello-world/ "The best search engine for privacy").
