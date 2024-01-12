@@ -2,4 +2,4 @@
 
 ## Contents Outline
 
-[Session 1:Blockchain Basics]
+[Session 1:Blockchain Basics] (https://solidity-by-example.org/hello-world/)
