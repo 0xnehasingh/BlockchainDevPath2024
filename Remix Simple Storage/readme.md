@@ -1,9 +1,9 @@
 ## Getting Started
 
-Access Remix IDE: Start by visiting Remix IDE.
+1. Access Remix IDE: Start by visiting Remix IDE.
 
-Set Up Your Environment
+2. Set Up Your Environment
 
-Compile the Contract
+3. Compile the Contract
 
-Deploy the Contract
+4. Deploy the Contract
