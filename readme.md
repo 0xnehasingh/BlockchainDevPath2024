@@ -1,1 +1,1 @@
-### Blockchain Developer and Smart Contract Career Path - Mastering Solidity from Beginner to Expert
+# Blockchain Developer and Smart Contract Career Path - Mastering Solidity from Beginner to Expert
