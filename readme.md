@@ -2,4 +2,4 @@
 
 ## Contents Outline
 
-[Session 1:Blockchain Basics] (https://solidity-by-example.org/hello-world/)
+[Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
